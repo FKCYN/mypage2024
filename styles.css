@@ -1,0 +1,4 @@
+table,tr,td,th {
+    padding: 5px;
+    border: 2px solid rgb(113, 59, 59)
+}
