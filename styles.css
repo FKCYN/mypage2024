@@ -1,4 +1,35 @@
-table,tr,td,th {
-    padding: 5px;
-    border: 2px solid rgb(113, 59, 59)
+body {
+    background-color: #FFF2D7;
+
 }
+
+.table1 {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    /* border: 2px solid #000;  */
+}
+#table1 tr, #table1 td, #table1 th {
+    padding: 5px;
+    border: 1px solid #D8AE7E; 
+    color: #D8AE7E;
+}
+img {
+    border-radius: 50%;
+    width: 90%; 
+    height: auto;
+    padding: 15px;
+  }
+.table {
+   
+    color: #D8AE7E;
+}
+hr {
+    border-color: #D8AE7E;
+    border-style: none; 
+  border-top-style: dotted;
+  border-width:5px;
+  /* width: 50%; */
+
+  }
+  
